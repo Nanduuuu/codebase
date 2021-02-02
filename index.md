@@ -1,6 +1,6 @@
 ## Welcome to Stack Everything
 
-Databases are always resilent to failures or meet failures , if we have a certain setup enforces high availability. But what if the SERVER holding the database itself goes down ? And there are applications which are not capable of redirect writes into another database namely redundancy databases or simply a failover database, thus we create a python project to do the automated work.
+**Databases are always resilent to failures or meet failures , if we have a certain setup enforces high availability. But what if the SERVER holding the database itself goes down ? And there are applications which are not capable of redirect writes into another database namely redundancy databases or simply a failover database, thus we create a python project to do the automated work.**
 
 ### Index
 
