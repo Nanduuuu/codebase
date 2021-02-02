@@ -1,8 +1,6 @@
 ## Welcome to Stack Everything
 
-You can use the [editor on GitHub](https://github.com/Nanduuuu/codebase/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Databases are always resilent to failures or meet failures , if we have a certain setup enforces high availability. But what if the SERVER holding the database itself goes down ? And there are applications which are not capable of redirect writes into another database namely redundancy databases or simply a failover database, thus we create a python project to do the automated work.
 
 ### Markdown
 
